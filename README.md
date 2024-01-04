@@ -1,0 +1,1 @@
+Welcome to the EduNexa Tech Cybersecurity Lab Setup repository! 🚀 This project marks the successful completion of my first internship task at EduNexa Tech, where I was responsible for setting up a robust Cybersecurity Lab.
